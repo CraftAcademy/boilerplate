@@ -1,0 +1,96 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/models/product_category.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/models/product.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/controllers/application_controller.rb": [
+        0,
+        0
+      ]
+    },
+    "timestamp": 1537776547
+  },
+  "Cucumber Features": {
+    "coverage": {
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/models/car.rb": [
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/oliver/craft_assignments/test_applications/boilerplate/app/controllers/application_controller.rb": [
+        0,
+        0
+      ]
+    },
+    "timestamp": 1537173927
+  }
+}
