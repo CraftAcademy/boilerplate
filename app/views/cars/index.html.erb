@@ -1,5 +1,18 @@
 <div>
-  Car brands
+<% if current_user %>
+  <p>
+    <%= link_to 'Logout', destroy_user_session_path, method: :delete%>
+  </p>
+  <% else %>
+  <p>
+    <%= link_to 'Login', new_user_session_path %>
+  </p>
+  <p>
+    <%= link_to 'Sign up', new_user_registration_path %>
+  </p>
+<% end %>
+
+  <h2>Car brands</h2>
   <% @cars.each do |car| %>
     <li><%= car.name %></li>
   <% end %>
