@@ -5,3 +5,17 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+cars = Car.create([
+  {name: 'Volvo'},
+  {name: 'Saab'},
+  {name: 'BMW'},
+  {name: 'Ferrari'},
+  {name: 'Jeep'},
+  {name: 'Mercedes'},
+  {name: 'Fiat'},
+  {name: 'Bugatti'},
+  {name: 'Skoda'},
+  {name: 'Audi'},
+  {name: 'Toyota'},
+  {name: 'Volkswagen'}
+])
